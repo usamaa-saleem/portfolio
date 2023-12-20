@@ -121,7 +121,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "National University of Computer and Emerging Sciences",
-      logo: require("./assets/images/harvardLogo.png"),
+      logo: require("./assets/images/unilogo.69feb01f.png"),
       subHeader: "Bachelor of Science in Artificial Intelligence",
       duration: "September 2019 - May 2023",
       desc: "Participated in the research of NLP techniques (LSTM) and published 1 paper.",
@@ -134,7 +134,7 @@ const educationInfo = {
     },
     {
       schoolName: "Fauji Fertilizer Higher Secondary School - FGS",
-      logo: require("./assets/images/stanfordLogo.png"),
+      logo: require("./assets/images/FGS.55160e10.png"),
       subHeader: "O/A Levels - Cambridge",
       duration: "September 2014 - July 2019",
       desc: "Top Scoring Computer Science student for O/A Levels & Best Athlete winner for 4 straight years 2015-2019",
